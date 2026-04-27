@@ -18,7 +18,7 @@ The dataset includes the following:
 | cups        | 53               |
 | eyeglasses  |                  |
 | headphones  | 32               |
-| keys        |                  |
+| keys        | 347              |
 | phones      |                  |
 | remotes     | 159              |
 | wallets     | 73               |
