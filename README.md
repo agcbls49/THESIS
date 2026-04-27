@@ -12,15 +12,15 @@ A custom dataset was used for the project and the images are taken under differe
 > 10 more classes to be added as synthetic data.**
 
 The dataset includes the following:
-| Folder      | Number of Images |
-| ----------- | ---------------- |
-| backpacks   | 297              |
-| books       | 158              |
-| cups        | 53               |
-| eyeglasses  |                  |
-| headphones  | 32               |
-| keys        | 347              |
-| phones      |                  |
-| remotes     | 159              |
-| wallets     | 73               |
-| waterbottles| 14               |
+| Folder      |  Class Name  | Number of Images |
+| ----------- | -----------  | ---------------- |
+| backpacks   |  backpack    | 297              |
+| books       |  book        | 158              |
+| cups        |  cup         | 53               |
+| eyeglasses  |  glasses     | 435              |
+| headphones  |  headphone   | 32               |
+| keys        |  key         | 347              |
+| phones      |  phone       |                  |
+| remotes     |  remote      | 159              |
+| wallets     |  wallet      | 73               |
+| waterbottles|  water bottle| 14               |
