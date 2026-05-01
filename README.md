@@ -1,8 +1,13 @@
 # THESIS
 Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
 
+## Created By
+Amazing Grace O. Cabiles - Dataset Annotations and Machine Learning Model Training
+Cyrelle Kristin P. Gapit - 
+Francen P. Manalo - 
+
 ## Dataset
-A custom dataset was used for the project and the images are taken under different lighting conditions. 
+A custom dataset was used for the project and the images are taken under different lighting conditions. The dataset was split into 80% train, 10% validation and 10% test.
 
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1OVjp1W8MENmfdceN69IOThPcHpZhV21c?usp=sharing)**
 
@@ -24,3 +29,10 @@ The dataset includes the following:
 |remotes      |7             |remote      |159               |
 |wallets      |8             |wallet      |106               |
 |waterbottles |9             |water bottle|127               |
+
+## Model Used
+
+## Tech Stack
+1. LabelImg for image annotations
+2. Python 3.12.13 from Google Colab
+3. Ultralytics YOLO Nano versions
