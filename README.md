@@ -2,12 +2,12 @@
 Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
 
 ## Created By
-Amazing Grace O. Cabiles - Dataset Annotations and Machine Learning Model Training
-Cyrelle Kristin P. Gapit - 
-Francen P. Manalo - 
+Amazing Grace O. Cabiles - Dataset Annotations and Machine Learning Model Training <br>
+Cyrelle Kristin P. Gapit - <br>
+Francen P. Manalo - <br>
 
 ## Dataset
-A custom dataset was used for the project and the images are taken under different lighting conditions. The dataset was split into 80% train, 10% validation and 10% test.
+A custom dataset was used for this project consisting of images captured under varying lighting conditions. The dataset was split into 80% train, 10% validation and 10% test sets. The YOLO model was trained using this dataset with the following configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 50 epochs.
 
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1OVjp1W8MENmfdceN69IOThPcHpZhV21c?usp=sharing)**
 
