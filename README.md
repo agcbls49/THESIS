@@ -1,5 +1,5 @@
-# THESIS
-Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
+# Vocasee
+Vocasee is a Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
 
 ## Created By
 Amazing Grace O. Cabiles - Dataset Annotations and Machine Learning Model Training <br>
