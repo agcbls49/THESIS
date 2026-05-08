@@ -31,7 +31,7 @@ The dataset includes the following:
 |bodysprays   |10            |body spray  |                  |
 |cards        |11            |card        |                  |
 |chargers     |12            |charger     |                  |
-|combs        |13            |comb        |                  |
+|combs        |13            |comb        |100               |
 |flashlights  |14            |flashlight  |                  |
 |glassescases |15            |glasses case|                  |
 |medicines    |16            |medicine    |                  |
