@@ -34,7 +34,7 @@ The dataset includes the following:
 |combs        |13            |comb        |100               |
 |flashlights  |14            |flashlight  |                  |
 |glassescases |15            |glasses case|                  |
-|medicines    |16            |medicine    |                  |
+|medicines    |16            |medicine    |100               |
 |nailclippers |17            |nail clipper|                  |
 |shoes        |18            |shoe        |                  |
 |watches      |19            |watch       |100               |
