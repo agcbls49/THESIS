@@ -36,7 +36,7 @@ The dataset includes the following:
 |glassescases |15            |glasses case|                  |
 |medicines    |16            |medicine    |100               |
 |nailclippers |17            |nail clipper|100               |
-|shoes        |18            |shoe        |                  |
+|shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |100               |
 
 ## Model Used
