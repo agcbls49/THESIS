@@ -13,7 +13,7 @@ A custom dataset was used for this project consisting of images captured under v
 
 > [!NOTE]
 > **The data listed on the table below is subject to change and was updated in May 6, 2026.
-> Annotation started in April 23, 2026. No synthetic data was used.**
+> Annotation started in April 23, 2026. Synthetic data was used for the flashlight class.**
 
 The dataset includes the following:
 | Folder Name | Class Number | Class Name | Number of Images |
@@ -29,8 +29,8 @@ The dataset includes the following:
 |wallets      |8             |wallet      |100               |
 |waterbottles |9             |water bottle|100               |
 |bodysprays   |10            |body spray  |                  |
-|cards        |11            |card        |                  |
-|chargers     |12            |charger     |                  |
+|cards        |11            |card        |100               |
+|chargers     |12            |charger     |100               |
 |combs        |13            |comb        |100               |
 |flashlights  |14            |flashlight  |                  |
 |glassescases |15            |glasses case|                  |
@@ -38,6 +38,8 @@ The dataset includes the following:
 |nailclippers |17            |nail clipper|100               |
 |shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |100               |
+
+**[The synthetic data source can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
 
 ## Model Used
 
