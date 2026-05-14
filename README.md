@@ -3,17 +3,17 @@ Vocasee is a Voice-Guided Indoor Object Finder Android Application for Visually 
 
 ## Created By
 Amazing Grace O. Cabiles - Dataset Annotations and Machine Learning Model Training <br>
-Cyrelle Kristin P. Gapit - <br>
-Francen P. Manalo - <br>
+Cyrelle Kristin P. Gapit - Android Application Developer <br>
+Francen P. Manalo - QA Tester <br>
 
 ## Dataset
-A custom dataset was used for this project consisting of images captured under varying lighting conditions. The dataset was split into 80% train, 10% validation and 10% test sets. The YOLO model was trained using this dataset with the following configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 50 epochs.
+A custom dataset was used for this project consisting of images captured under varying lighting conditions. The dataset was split into **80% train, 10% validation and 10% test** sets. The YOLO model was trained using this dataset with the following configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 50 epochs.
 
 **[The dataset source can be found here](https://drive.google.com/file/d/1jR0j69hxAqLmmprwyW0MK5C34uUohk8a/view?usp=sharing)**
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was updated in May 6, 2026.
-> Annotation started in April 23, 2026. Synthetic data was used for the flashlight class.**
+> **The data listed on the table below is subject to change and was updated in May 14, 2026.
+> Annotation started in April 23, 2026. Synthetic data was used only for the flashlight class.**
 
 The dataset includes the following:
 | Folder Name | Class Number | Class Name | Number of Images |
@@ -32,18 +32,20 @@ The dataset includes the following:
 |cards        |11            |card        |100               |
 |chargers     |12            |charger     |100               |
 |combs        |13            |comb        |100               |
-|flashlights  |14            |flashlight  |                  |
-|glassescases |15            |glasses case|                  |
+|flashlights  |14            |flashlight  |100               |
+|glassescases |15            |glasses case|100               |
 |medicines    |16            |medicine    |100               |
 |nailclippers |17            |nail clipper|100               |
 |shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |100               |
 
-**[The synthetic data source can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
+**[The synthetic data source created by OORT DataHub can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
 
 ## Model Used
 
 ## Tech Stack
-1. LabelImg for image annotations
+1. LabelImg for Image Annotations
 2. Python 3.12.13 from Google Colab
 3. Ultralytics YOLO Nano versions
+4. Java for the Android Application
+5. for Android Application SImulation Testing
