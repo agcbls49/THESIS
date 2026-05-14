@@ -15,6 +15,8 @@ A custom dataset was used for this project consisting of images captured under v
 > **The data listed on the table below is subject to change and was updated in May 14, 2026.
 > Annotation started in April 23, 2026. Synthetic data was used only for the flashlight class.**
 
+The current total of images in the dataset is 2000 images.
+
 The dataset includes the following:
 | Folder Name | Class Number | Class Name | Number of Images |
 |-------------|--------------|------------|------------------|
@@ -28,7 +30,7 @@ The dataset includes the following:
 |remotes      |7             |remote      |100               |
 |wallets      |8             |wallet      |100               |
 |waterbottles |9             |water bottle|100               |
-|bodysprays   |10            |body spray  |                  |
+|bodysprays   |10            |body spray  |100               |
 |cards        |11            |card        |100               |
 |chargers     |12            |charger     |100               |
 |combs        |13            |comb        |100               |
