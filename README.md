@@ -9,7 +9,7 @@ Francen P. Manalo - QA Tester <br>
 ## Dataset
 A custom dataset was used for this project consisting of images captured under varying lighting conditions. The dataset was split into **80% train, 10% validation and 10% test** sets. The YOLO model was trained using this dataset with the following configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 50 epochs.
 
-**[The dataset source can be found here](https://drive.google.com/file/d/1jR0j69hxAqLmmprwyW0MK5C34uUohk8a/view?usp=sharing)**
+**[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
 > **The data listed on the table below is subject to change and was updated in May 14, 2026.
