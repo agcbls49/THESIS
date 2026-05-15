@@ -49,5 +49,5 @@ The dataset includes the following:
 1. LabelImg for Image Annotations
 2. Python 3.12.13 from Google Colab
 3. Ultralytics YOLO Nano versions
-4. Java for the Android Application
-5. for Android Application SImulation Testing
+4. Java 11 for the Android Application
+5. Android Studio for Android Application Simulation Testing
