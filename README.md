@@ -43,11 +43,14 @@ The dataset includes the following:
 
 **[The synthetic data source created by OORT DataHub can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
 
-## Model Used
+> [!NOTE]
+> **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
+> It was originally hosted in Google Colab before downloaded in a local machine. The file can be imported back into Google Colab for
+> model training using Google Colab's GPUs.**
 
 ## Tech Stack
 1. LabelImg for Image Annotations
 2. Python 3.12.13 from Google Colab
-3. Ultralytics YOLO Nano versions
+3. Ultralytics YOLO Nano version 11
 4. Java 11 for the Android Application
 5. Android Studio for Android Application Simulation Testing
