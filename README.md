@@ -7,13 +7,13 @@ Cyrelle Kristin P. Gapit - Android Application Developer <br>
 Francen P. Manalo - QA Tester <br>
 
 ## Dataset
-A custom dataset was used for this project consisting of images captured under varying lighting conditions. The dataset was split into **80% train, 10% validation and 10% test** sets. The YOLO model was trained using this dataset with the following configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 50 epochs.
+A custom dataset was used for this project consisting of images captured under varying lighting conditions. The dataset was split into **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. 
 
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
 > **The data listed on the table below is subject to change and was updated in May 14, 2026.
-> Annotation started in April 23, 2026. Synthetic data was used only for the flashlight class.**
+> Annotation started in April 23, 2026. Supplementary images were used only for the flashlight class.**
 
 The current total of images in the dataset is 2000 images.
 
