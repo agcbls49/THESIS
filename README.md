@@ -41,7 +41,7 @@ The dataset includes the following:
 |shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |100               |
 
-**[The synthetic data source created by OORT DataHub can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
+**[The supplementary data source created by OORT DataHub can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
