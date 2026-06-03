@@ -13,20 +13,20 @@ A custom dataset was used for this project consisting of images captured under v
 
 > [!NOTE]
 > **The data listed on the table below is subject to change and was updated in May 14, 2026.
-> Annotation started in April 23, 2026. Supplementary images were used only for the flashlight class.**
+> Annotation started in April 23, 2026. Supplementary images were used for the flashlight and watch class.**
 
 The current total of images in the dataset is 2000 images.
 
 The dataset includes the following:
 | Folder Name | Class Number | Class Name | Number of Images |
 |-------------|--------------|------------|------------------|
-|backpacks    |0             |backpack    |100               |
+|backpacks    |0             |backpack    |300               |
 |books        |1             |book        |100               |
 |cups         |2             |cup         |100               |
-|eyeglasses   |3             |glasses     |100               |
+|eyeglasses   |3             |glasses     |300               |
 |headphones   |4             |headphone   |100               |
-|keys         |5             |key         |100               |
-|phones       |6             |phone       |100               |
+|keys         |5             |key         |300               |
+|phones       |6             |phone       |300               |
 |remotes      |7             |remote      |100               |
 |wallets      |8             |wallet      |100               |
 |waterbottles |9             |water bottle|100               |
@@ -41,7 +41,8 @@ The dataset includes the following:
 |shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |100               |
 
-**[The supplementary data source created by OORT DataHub can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
+**[The supplementary data source for the flashlight class created by OORT DataHub can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
+**[The supplementary data source for the watch class created by Ahed Jneed can be found here](https://www.kaggle.com/datasets/ahedjneed/fancy-watche-images)**
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
