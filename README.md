@@ -34,14 +34,15 @@ The dataset includes the following:
 |cards        |11            |card        |100               |
 |chargers     |12            |charger     |100               |
 |combs        |13            |comb        |100               |
-|flashlights  |14            |flashlight  |100               |
+|flashlights  |14            |flashlight  |300               |
 |glassescases |15            |glasses case|100               |
 |medicines    |16            |medicine    |100               |
 |nailclippers |17            |nail clipper|100               |
 |shoes        |18            |shoe        |100               |
-|watches      |19            |watch       |100               |
+|watches      |19            |watch       |300               |
 
 **[The supplementary data source for the flashlight class created by OORT DataHub can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
+<br><br>
 **[The supplementary data source for the watch class created by Ahed Jneed can be found here](https://www.kaggle.com/datasets/ahedjneed/fancy-watche-images)**
 
 > [!NOTE]
