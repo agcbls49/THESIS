@@ -1,5 +1,5 @@
-# Vocasee
-Vocasee is a Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
+# VocaSee
+VocaSee is a Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
 
 ## Created By
 Amazing Grace O. Cabiles - Dataset Annotations and Machine Learning Model Training <br>
@@ -7,13 +7,13 @@ Cyrelle Kristin P. Gapit - Android Application Developer <br>
 Francen P. Manalo - QA Tester <br>
 
 ## Dataset
-A custom dataset was used for this project consisting of images captured under varying lighting conditions. The dataset was split into **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. 
+A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle. The dataset was split into **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. 
 
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was updated in May 14, 2026.
-> Annotation started in April 23, 2026. Supplementary images were used for the flashlight and watch class.**
+> **The data listed on the table below is subject to change and was updated in June 6, 2026.
+> Annotation started in April 23, 2026.**
 
 The current total of images in the dataset is 2000 images.
 
@@ -41,9 +41,10 @@ The dataset includes the following:
 |shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |300               |
 
-**[The supplementary data source for the flashlight class created by OORT DataHub can be found here](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)**
-<br><br>
-**[The supplementary data source for the watch class created by Ahed Jneed can be found here](https://www.kaggle.com/datasets/ahedjneed/fancy-watche-images)**
+## Supplementary Data Sources
+1. [Flashlights from OORT DataHub](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)
+2. [Watches from Ahed Jneed](https://www.kaggle.com/datasets/ahedjneed/fancy-watche-images)
+3. [Cups from Samuel Ayman](https://www.kaggle.com/datasets/samuelayman/cup-dataset) 
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
