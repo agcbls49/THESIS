@@ -22,7 +22,7 @@ The dataset includes the following:
 |-------------|--------------|------------|------------------|
 |backpacks    |0             |backpack    |300               |
 |books        |1             |book        |100               |
-|cups         |2             |cup         |100               |
+|cups         |2             |cup         |300               |
 |eyeglasses   |3             |glasses     |300               |
 |headphones   |4             |headphone   |100               |
 |keys         |5             |key         |300               |
