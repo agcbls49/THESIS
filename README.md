@@ -12,7 +12,7 @@ A custom dataset was used for this project consisting of images captured under v
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was updated in June 6, 2026.
+> **The data listed on the table below is subject to change and was updated in June 7, 2026.
 > Annotation started in April 23, 2026.**
 
 The current total of images in the dataset is 2000 images.
@@ -44,7 +44,12 @@ The dataset includes the following:
 ## Supplementary Data Sources
 1. [Flashlights from OORT DataHub](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)
 2. [Watches from Ahed Jneed](https://www.kaggle.com/datasets/ahedjneed/fancy-watche-images)
-3. [Cups from Samuel Ayman](https://www.kaggle.com/datasets/samuelayman/cup-dataset) 
+3. [Cups from Samuel Ayman](https://www.kaggle.com/datasets/samuelayman/cup-dataset)
+4. Headphones from the Roboflow Universe Platform specifically made by:
+   * [@CVAI Project](https://universe.roboflow.com/headphones-9uy0k/headphones-fwhbt)
+   * [@headphones](https://universe.roboflow.com/headphones/headphones-3i2fi/dataset/3)
+   * [@headphones-crjvh](https://universe.roboflow.com/headphones-crjvh/headphones-zrumj)
+5.
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
