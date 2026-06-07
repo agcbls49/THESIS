@@ -4,10 +4,19 @@ This contains the explanation of the files that were used for the data preproces
 
 ---
 
-1. *requirements.txt*
+0. *requirements.txt*
 
 This file contains the pip command needed for installing the **split-folders** and **opencv** library. OpenCV is a computer vision library that was used to convert  the synthetic data image files
 into **LabelImg** compatible image files. Split-folders was used to split the images into test, valid and train folders allowing it to be used for machine learning. 
+
+---
+
+1. *0_check_duplicates.py*
+
+This file contains code for comparing the hashes of images to check if there are duplicate images. 
+
+>[!NOTE]
+> The **images are still checked manually** to ensure that there are no duplicates. This file is used for the initial checking before manual checking is done.
 
 ---
 
