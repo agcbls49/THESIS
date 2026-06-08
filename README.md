@@ -24,7 +24,7 @@ The dataset includes the following:
 |books        |1             |book        |100               |
 |cups         |2             |cup         |300               |
 |eyeglasses   |3             |glasses     |300               |
-|headphones   |4             |headphone   |100               |
+|headphones   |4             |headphone   |300               |
 |keys         |5             |key         |300               |
 |phones       |6             |phone       |300               |
 |remotes      |7             |remote      |100               |
