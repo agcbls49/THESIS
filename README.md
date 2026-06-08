@@ -49,7 +49,10 @@ The dataset includes the following:
    * [@CVAI Project](https://universe.roboflow.com/headphones-9uy0k/headphones-fwhbt)
    * [@headphones](https://universe.roboflow.com/headphones/headphones-3i2fi/dataset/3)
    * [@headphones-crjvh](https://universe.roboflow.com/headphones-crjvh/headphones-zrumj)
-5.
+
+5. Books from the Roboflow Universe Platform specifically made by:
+   * [@book-ywepn](https://universe.roboflow.com/book-ywepn/book-wuuk7)
+   * [@test-qcuam](https://universe.roboflow.com/test-qcuam/books-uqkzq/dataset/1)
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
