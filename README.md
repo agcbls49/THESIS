@@ -12,7 +12,7 @@ A custom dataset was used for this project consisting of images captured under v
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was updated in June 7, 2026.
+> **The data listed on the table below is subject to change and was last updated in June 9, 2026.
 > Annotation started in April 23, 2026.**
 
 The current total of images in the dataset is 2000 images.
@@ -21,7 +21,7 @@ The dataset includes the following:
 | Folder Name | Class Number | Class Name | Number of Images |
 |-------------|--------------|------------|------------------|
 |backpacks    |0             |backpack    |300               |
-|books        |1             |book        |100               |
+|books        |1             |book        |300               |
 |cups         |2             |cup         |300               |
 |eyeglasses   |3             |glasses     |300               |
 |headphones   |4             |headphone   |300               |
