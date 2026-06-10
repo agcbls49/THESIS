@@ -12,7 +12,7 @@ A custom dataset was used for this project consisting of images captured under v
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was last updated in June 9, 2026.
+> **The data listed on the table below is subject to change and was last updated in June 11, 2026.
 > Annotation started in April 23, 2026.**
 
 The current total of images in the dataset is 2000 images.
@@ -33,13 +33,23 @@ The dataset includes the following:
 |bodysprays   |10            |body spray  |100               |
 |cards        |11            |card        |100               |
 |chargers     |12            |charger     |300               |
-|combs        |13            |comb        |100               |
+|combs        |13            |comb        |300               |
 |flashlights  |14            |flashlight  |300               |
 |glassescases |15            |glasses case|100               |
 |medicines    |16            |medicine    |100               |
 |nailclippers |17            |nail clipper|100               |
 |shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |300               |
+|cigarettes   |20            |cigarette   |                  |
+|dogtoys      |21            |dog toy     |                  |
+|flashdrives  |22            |flash drive |                  |
+|forks        |23            |fork        |                  |
+|hangers      |24            |hanger      |                  |
+|hats         |25            |hat         |                  |
+|keyboards    |26            |keyboard    |                  |
+|lighters     |27            |lighter     |                  |
+|papertissues |28            |paper tissue|                  |
+|spoons       |29            |spoon       |                  |
 
 ## Supplementary Data Sources
 1. [Flashlights from OORT DataHub](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)
