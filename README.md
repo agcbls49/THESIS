@@ -55,6 +55,13 @@ The dataset includes the following:
    * [@test-qcuam](https://universe.roboflow.com/test-qcuam/books-uqkzq/dataset/1)
   
 6. [Chargers from the Roboflow Universe Platform by Nikhilai](https://universe.roboflow.com/nikhilai-anmh1/shop-ai-v1)
+7. Combs from the Roboflow Universe Platform specifically made by:
+   * [@Newwy22](https://universe.roboflow.com/newwy22/comb-uqoir)
+   * [@Thiyada](https://universe.roboflow.com/thiyada-g1bzx/comb-lipstick-marshmallow)
+   * [@pp-mfp9z](https://universe.roboflow.com/pp-mfp9z/comb-glasses-pen)
+   * [@HAZARD](https://universe.roboflow.com/hazard-qjwxm/sharp-objects-detection-i)
+   * [@annimal](https://universe.roboflow.com/annimal/powder-comb-treatment)
+   * ***[Combs and Water Bottles from @Artificial intelligence tools Assignment](https://universe.roboflow.com/artificial-intelligence-tools-assignment/bottle-phone-comb)***
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
