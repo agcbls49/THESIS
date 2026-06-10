@@ -32,7 +32,7 @@ The dataset includes the following:
 |waterbottles |9             |water bottle|100               |
 |bodysprays   |10            |body spray  |100               |
 |cards        |11            |card        |100               |
-|chargers     |12            |charger     |100               |
+|chargers     |12            |charger     |300               |
 |combs        |13            |comb        |100               |
 |flashlights  |14            |flashlight  |300               |
 |glassescases |15            |glasses case|100               |
@@ -53,6 +53,8 @@ The dataset includes the following:
 5. Books from the Roboflow Universe Platform specifically made by:
    * [@book-ywepn](https://universe.roboflow.com/book-ywepn/book-wuuk7)
    * [@test-qcuam](https://universe.roboflow.com/test-qcuam/books-uqkzq/dataset/1)
+  
+6. [Chargers from the Roboflow Universe Platform by Nikhilai](https://universe.roboflow.com/nikhilai-anmh1/shop-ai-v1)
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
