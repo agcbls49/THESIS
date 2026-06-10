@@ -26,9 +26,9 @@ This file was used to mass rename the image files. It checks if the image file i
 
 ---
 
-3. *2_synthetic_data_converter.py*
+3. *2_jpg_format_converter.py*
 
-This file was used to convert the sythentic data image files into **"JPG"** image files that are compatible with **LabelImg** allowing it to be annotated for machine learning training. 
+This file was used to convert the supplementary data image files into **"JPG"** image files that are compatible with **LabelImg** allowing it to be annotated for machine learning training. 
 
 ---
 
