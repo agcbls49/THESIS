@@ -72,6 +72,8 @@ The dataset includes the following:
    * [@HAZARD](https://universe.roboflow.com/hazard-qjwxm/sharp-objects-detection-i)
    * [@annimal](https://universe.roboflow.com/annimal/powder-comb-treatment)
    * ***[Combs and Water Bottles from @Artificial intelligence tools Assignment](https://universe.roboflow.com/artificial-intelligence-tools-assignment/bottle-phone-comb)***
+8. [Water Bottles from the Roboflow Universe Platform by waterbottles](https://universe.roboflow.com/waterbottles/water-bottles-0dgex)
+
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
