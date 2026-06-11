@@ -73,7 +73,15 @@ The dataset includes the following:
    * [@annimal](https://universe.roboflow.com/annimal/powder-comb-treatment)
    * ***[Combs and Water Bottles from @Artificial intelligence tools Assignment](https://universe.roboflow.com/artificial-intelligence-tools-assignment/bottle-phone-comb)***
 8. [Water Bottles from the Roboflow Universe Platform by waterbottles](https://universe.roboflow.com/waterbottles/water-bottles-0dgex)
-
+9. [Tissue from Mehant Kammakomati](https://www.kaggle.com/datasets/mehantkammakomati/cob-common-objects-in-bathroom)
+10. [Keyboards from DataCluster Labs](https://www.kaggle.com/datasets/dataclusterlabs/electronics-mouse-keyboard-image-dataset/)
+    * Keyboards from the Roboflow Universe Platform specifically made by:
+      * [@mehmet](https://universe.roboflow.com/mehmet-wswds/e-waste-qmxtt)
+      * ***[Keyboards and Remotes from @TRCProject](https://universe.roboflow.com/trcproject/e-waste-detection-model)***
+11. [Remotes from from the Roboflow Universe Platform by Tahsin](https://universe.roboflow.com/tahsin/tv-remote)
+   
+<br>
+<br>
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
