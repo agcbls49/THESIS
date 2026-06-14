@@ -12,7 +12,7 @@ A custom dataset was used for this project consisting of images captured under v
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was last updated in June 11, 2026.
+> **The data listed on the table below is subject to change and was last updated in June 14, 2026.
 > Annotation started in April 23, 2026.**
 
 The current total of images in the dataset is 2000 images.
@@ -57,12 +57,12 @@ The dataset includes the following:
 3. [Cups from Samuel Ayman](https://www.kaggle.com/datasets/samuelayman/cup-dataset)
 4. Headphones from the Roboflow Universe Platform specifically made by:
    * [@CVAI Project](https://universe.roboflow.com/headphones-9uy0k/headphones-fwhbt)
-   * [@headphones](https://universe.roboflow.com/headphones/headphones-3i2fi/dataset/3)
+   * [@headphones](https://universe.roboflow.com/headphones/headphones-3i2fi)
    * [@headphones-crjvh](https://universe.roboflow.com/headphones-crjvh/headphones-zrumj)
 
 5. Books from the Roboflow Universe Platform specifically made by:
    * [@book-ywepn](https://universe.roboflow.com/book-ywepn/book-wuuk7)
-   * [@test-qcuam](https://universe.roboflow.com/test-qcuam/books-uqkzq/dataset/1)
+   * [@test-qcuam](https://universe.roboflow.com/test-qcuam/books-uqkzq)
   
 6. [Chargers from the Roboflow Universe Platform by Nikhilai](https://universe.roboflow.com/nikhilai-anmh1/shop-ai-v1)
 7. Combs from the Roboflow Universe Platform specifically made by:
