@@ -27,7 +27,7 @@ The dataset includes the following:
 |headphones   |4             |headphone   |300               |
 |keys         |5             |key         |300               |
 |phones       |6             |phone       |300               |
-|remotes      |7             |remote      |100               |
+|remotes      |7             |remote      |300               |
 |wallets      |8             |wallet      |100               |
 |waterbottles |9             |water bottle|100               |
 |bodysprays   |10            |body spray  |100               |
@@ -46,7 +46,7 @@ The dataset includes the following:
 |forks        |23            |fork        |                  |
 |hangers      |24            |hanger      |                  |
 |hats         |25            |hat         |                  |
-|keyboards    |26            |keyboard    |                  |
+|keyboards    |26            |keyboard    |300               |
 |lighters     |27            |lighter     |                  |
 |papertissues |28            |paper tissue|                  |
 |spoons       |29            |spoon       |                  |
@@ -81,6 +81,17 @@ The dataset includes the following:
 11. Remotes from the Roboflow Universe Platform specifically made by:
     * [@Tahsin](https://universe.roboflow.com/tahsin/tv-remote)
     * [@Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/remotes)
+12. Hangers from the Roboflow Universe Platform specifically made by:
+    * [@space1](https://universe.roboflow.com/space1-6yyhx/yijia-qjimq)
+    * [@universitas-krisnawipayana-iqbal](https://universe.roboflow.com/universitas-krisnawipayana-iqbal/gantungan-baju)
+13. [Hat from Gerry](https://www.kaggle.com/datasets/gpiosenka/headgear-image-classification)
+14. [Body Sprays from the Roboflow Universe Platform by MARIJOY S VILLAR](https://universe.roboflow.com/marijoy-s-villar/perfume-adhjk)
+15. [Spoons and Forks from Mikhail](https://www.kaggle.com/datasets/kilianovski/spoonvsfork)
+16. [Nail Clippers from the Roboflow Universe Platform by prohibitedItemsdataCleainingval](https://universe.roboflow.com/prohibiteditemsdatacleainingval/data_cleaning_val1)
+17. [Glasses Cases from the Roboflow Universe Platform by s Workspace](https://universe.roboflow.com/s-workspace-lzvrl/glasses-case-detection)
+18. [Cards from the Roboflow Universe Platform by Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/credit-cards-n4hrw)
+19. [Flash Drives from the Roboflow Universe Platfrom by foxr lolunwer](https://universe.roboflow.com/foxr-lolunwer-icuja/volleyball-recognition)
+20. [Dog Toys from the Roboflow Universe Platform by test-workspace-re3cc](https://universe.roboflow.com/test-workspace-re3cc/dog-toys-24roy)
    
 <br>
 <br>
