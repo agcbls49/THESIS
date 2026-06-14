@@ -78,7 +78,9 @@ The dataset includes the following:
     * Keyboards from the Roboflow Universe Platform specifically made by:
       * [@mehmet](https://universe.roboflow.com/mehmet-wswds/e-waste-qmxtt)
       * ***[Keyboards and Remotes from @TRCProject](https://universe.roboflow.com/trcproject/e-waste-detection-model)***
-11. [Remotes from from the Roboflow Universe Platform by Tahsin](https://universe.roboflow.com/tahsin/tv-remote)
+11. Remotes from the Roboflow Universe Platform specifically made by:
+    * [@Tahsin](https://universe.roboflow.com/tahsin/tv-remote)
+    * [@Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/remotes)
    
 <br>
 <br>
