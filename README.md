@@ -40,16 +40,6 @@ The dataset includes the following:
 |nailclippers |17            |nail clipper|100               |
 |shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |300               |
-|cigarettes   |20            |cigarette   |                  |
-|dogtoys      |21            |dog toy     |                  |
-|flashdrives  |22            |flash drive |                  |
-|forks        |23            |fork        |                  |
-|hangers      |24            |hanger      |                  |
-|hats         |25            |hat         |                  |
-|keyboards    |26            |keyboard    |300               |
-|lighters     |27            |lighter     |                  |
-|papertissues |28            |paper tissue|                  |
-|spoons       |29            |spoon       |                  |
 
 ## Supplementary Data Sources
 1. [Flashlights from OORT DataHub](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)
@@ -73,26 +63,14 @@ The dataset includes the following:
    * [@annimal](https://universe.roboflow.com/annimal/powder-comb-treatment)
    * ***[Combs and Water Bottles from @Artificial intelligence tools Assignment](https://universe.roboflow.com/artificial-intelligence-tools-assignment/bottle-phone-comb)***
 8. [Water Bottles from the Roboflow Universe Platform by waterbottles](https://universe.roboflow.com/waterbottles/water-bottles-0dgex)
-9. [Tissue from Mehant Kammakomati](https://www.kaggle.com/datasets/mehantkammakomati/cob-common-objects-in-bathroom)
-10. [Keyboards from DataCluster Labs](https://www.kaggle.com/datasets/dataclusterlabs/electronics-mouse-keyboard-image-dataset/)
-    * Keyboards from the Roboflow Universe Platform specifically made by:
-      * [@mehmet](https://universe.roboflow.com/mehmet-wswds/e-waste-qmxtt)
-      * ***[Keyboards and Remotes from @TRCProject](https://universe.roboflow.com/trcproject/e-waste-detection-model)***
-11. Remotes from the Roboflow Universe Platform specifically made by:
+9. Remotes from the Roboflow Universe Platform specifically made by:
     * [@Tahsin](https://universe.roboflow.com/tahsin/tv-remote)
     * [@Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/remotes)
-12. Hangers from the Roboflow Universe Platform specifically made by:
-    * [@space1](https://universe.roboflow.com/space1-6yyhx/yijia-qjimq)
-    * [@universitas-krisnawipayana-iqbal](https://universe.roboflow.com/universitas-krisnawipayana-iqbal/gantungan-baju)
-13. [Hat from Gerry](https://www.kaggle.com/datasets/gpiosenka/headgear-image-classification)
-14. [Body Sprays from the Roboflow Universe Platform by MARIJOY S VILLAR](https://universe.roboflow.com/marijoy-s-villar/perfume-adhjk)
-15. [Spoons and Forks from Mikhail](https://www.kaggle.com/datasets/kilianovski/spoonvsfork)
-16. [Nail Clippers from the Roboflow Universe Platform by prohibitedItemsdataCleainingval](https://universe.roboflow.com/prohibiteditemsdatacleainingval/data_cleaning_val1)
-17. [Glasses Cases from the Roboflow Universe Platform by s Workspace](https://universe.roboflow.com/s-workspace-lzvrl/glasses-case-detection)
-18. [Cards from the Roboflow Universe Platform by Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/credit-cards-n4hrw)
-19. [Flash Drives from the Roboflow Universe Platfrom by foxr lolunwer](https://universe.roboflow.com/foxr-lolunwer-icuja/volleyball-recognition)
-20. [Dog Toys from the Roboflow Universe Platform by test-workspace-re3cc](https://universe.roboflow.com/test-workspace-re3cc/dog-toys-24roy)
-   
+10. [Body Sprays from the Roboflow Universe Platform by MARIJOY S VILLAR](https://universe.roboflow.com/marijoy-s-villar/perfume-adhjk)
+11. [Glasses Cases from the Roboflow Universe Platform by s Workspace](https://universe.roboflow.com/s-workspace-lzvrl/glasses-case-detection)
+12. [Cards from the Roboflow Universe Platform by Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/credit-cards-n4hrw)
+
+
 <br>
 <br>
 
