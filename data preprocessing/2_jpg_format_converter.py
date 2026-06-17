@@ -1,4 +1,4 @@
-# Code for synthetic data conversion as the supplementary data used may have 
+# Code for supplementary data conversion as the supplementary data used may have 
 # incomptible file extensions or formatting that does not work in LabelImg
 import cv2
 import os
