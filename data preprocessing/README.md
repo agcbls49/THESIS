@@ -44,12 +44,18 @@ This file was used to check if there are any missing labels inside a class folde
 
 ---
 
-6. *5_split_dataset.py*
+6. *5_null_renamer_maker.py*
+
+This file was used to mass rename all null images and create their corresponding empty text files as YOLO requires null images to have empty text/annotation files.
+
+---
+
+7. *6_split_dataset.py*
 
 This file was used to split the dataset into **80% train, 10% valid and 10% test**. It creates train, valid and test folders inside the output folders or directory. It then shuffles the images inside the source directory then copies it into the train, valid, and test folders inside the output directory. Lastly, it prints a summary of the split.
 
 ---
 
-7. *6_verify_distribution.py*
+8. *7_verify_distribution.py*
 
 This file checks if all the train, valid, and test folders have all the 20 classes inside after the split.
