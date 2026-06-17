@@ -5,8 +5,11 @@ folder = r"D:\THESIS_ARGH\TO SORT ANNOTATE\body spray-ORIGINAL-IMG-ONLY\body spr
 
 # The renamed file will start at 001
 counter = 1
-files = sorted([f for f in os.listdir(folder) if f.upper().startswith("IMG")])
 
+# rename all files regardless of file name
+files = sorted([f for f in os.listdir(folder)])
+
+# change name of image to the proper class
 NAME = "body spray"
 
 for filename in files:
