@@ -2,6 +2,9 @@
 
 This contains the explanation of the files that were used for the data preprocessing of the images used as dataset in the project.
 
+>[!NOTE]
+> The file name of the scripts are simply file names. **The numbers in the file names are not a reference of their order of use**. In other words, the file named *"1_img_renamer.py"* can be done before or after *"2_jpg_format_converter.py"*. The usage of the files are entirely dependent on which step has to be done.
+
 ---
 
 0. *requirements.txt*
