@@ -7,7 +7,7 @@ Cyrelle Kristin P. Gapit
 Francen P. Manalo
 
 ## Dataset
-A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle. The dataset was split into **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. 
+A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. 
 
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
@@ -40,6 +40,8 @@ The dataset includes the following:
 |nailclippers |17            |nail clipper|100               |
 |shoes        |18            |shoe        |100               |
 |watches      |19            |watch       |300               |
+
+<br>
 
 ## Supplementary Data Sources
 1. [Flashlights from OORT DataHub](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)
@@ -85,4 +87,4 @@ The dataset includes the following:
 2. Python 3.12.13 from Google Colab
 3. Ultralytics YOLO Nano version 11
 4. Java 11 for the Android Application
-5. Android Studio for Android Application Simulation Testing
+5. Android Studio for Android Application Development and Testing
