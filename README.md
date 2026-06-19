@@ -2,9 +2,9 @@
 VocaSee is a Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
 
 ## Created By
-Amazing Grace O. Cabiles - Dataset Annotations and Machine Learning Model Training <br>
-Cyrelle Kristin P. Gapit - Android Application Developer <br>
-Francen P. Manalo - QA Tester <br>
+Amazing Grace O. Cabiles
+Cyrelle Kristin P. Gapit
+Francen P. Manalo
 
 ## Dataset
 A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle. The dataset was split into **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. 
@@ -12,7 +12,7 @@ A custom dataset was used for this project consisting of images captured under v
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was last updated in June 14, 2026.
+> **The data listed on the table below is subject to change and was last updated in June 19, 2026.
 > Annotation started in April 23, 2026.**
 
 The current total of images in the dataset is 2000 images.
@@ -28,10 +28,10 @@ The dataset includes the following:
 |keys         |5             |key         |300               |
 |phones       |6             |phone       |300               |
 |remotes      |7             |remote      |300               |
-|wallets      |8             |wallet      |100               |
-|waterbottles |9             |water bottle|100               |
-|bodysprays   |10            |body spray  |100               |
-|cards        |11            |card        |100               |
+|wallets      |8             |wallet      |300               |
+|waterbottles |9             |water bottle|300               |
+|bodysprays   |10            |body spray  |300               |
+|cards        |11            |card        |300               |
 |chargers     |12            |charger     |300               |
 |combs        |13            |comb        |300               |
 |flashlights  |14            |flashlight  |300               |
