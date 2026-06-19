@@ -69,6 +69,7 @@ The dataset includes the following:
 10. [Body Sprays from the Roboflow Universe Platform by MARIJOY S VILLAR](https://universe.roboflow.com/marijoy-s-villar/perfume-adhjk)
 11. [Glasses Cases from the Roboflow Universe Platform by s Workspace](https://universe.roboflow.com/s-workspace-lzvrl/glasses-case-detection)
 12. [Cards from the Roboflow Universe Platform by Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/credit-cards-n4hrw)
+13. [Wallets from the Roboflow Universe Platform by Valuable Object Detection](https://universe.roboflow.com/valuable-object-detection/wallet-mjzrc)
 
 
 <br>
