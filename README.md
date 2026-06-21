@@ -79,8 +79,7 @@ The dataset includes the following:
 ## Experiments
 1. The **Experiment 1** file contains code for training the **70% train, 20% validation and 10% test dataset split** tested at **100 epochs**.
 2. The **Experiment 2** file contains code for training the **80% train, 20% validation and 10% test dataset split** tested at **100 epochs**.
-3. The **Experiment 3** file contains code for training the **best dataset split evaluated from Experiment 1 and Experiment 2** tested at **150 epochs**.
-4. The **Experiment 4** file contains code for training the **best dataset split evaluated from Experiment 1 and Experiment 2** tested at **200 epochs**.
+3. The **Experiment 3 & 4** file contains code for training the **best dataset split evaluated from Experiment 1 and Experiment 2** tested at **150 epochs** and **200 epochs**.
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
