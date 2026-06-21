@@ -7,7 +7,7 @@ Cyrelle Kristin P. Gapit <br>
 Francen P. Manalo
 
 ## Dataset
-A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. 
+A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **70% train, 20% validation and 10% test** and **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this are conducted trhough the data splitting, epoch changes, and model results comparison.
 
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
@@ -73,9 +73,14 @@ The dataset includes the following:
 12. [Cards from the Roboflow Universe Platform by Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/credit-cards-n4hrw)
 13. [Wallets from the Roboflow Universe Platform by Valuable Object Detection](https://universe.roboflow.com/valuable-object-detection/wallet-mjzrc)
 
+<br>
+<br>
 
-<br>
-<br>
+## Experiments
+The **Experiment 1** file contains code for training the **70% train, 20% validation and 10% test dataset split tested at 100 epochs**. 
+The **Experiment 2** file contains code for training the **80% train, 20% validation and 10% test dataset split tested at 100 epochs**. 
+The **Experiment 3** file contains code for training the **best dataset split evaluated from Experiment 1 and Experiment 2 tested at 150 epochs**. 
+The **Experiment 4** file contains code for training the **best dataset split evaluated from Experiment 1 and Experiment 2 tested at 200 epochs**. 
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
@@ -83,8 +88,8 @@ The dataset includes the following:
 > model training using Google Colab's GPUs.**
 
 ## Tech Stack
-1. LabelImg for Image Annotations
-2. Python 3.12.13 from Google Colab
-3. Ultralytics YOLO Nano version 11
-4. Java 11 for the Android Application
+1. LabelImg v1.8.1 for Image Annotations
+2. Python v3.12.13 from Google Colab
+3. Ultralytics YOLO Nano versions
+4. Java v11 for the Android Application
 5. Android Studio for Android Application Development and Testing
