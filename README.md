@@ -2,8 +2,8 @@
 VocaSee is a Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
 
 ## Created By
-Amazing Grace O. Cabiles
-Cyrelle Kristin P. Gapit
+Amazing Grace O. Cabiles <br>
+Cyrelle Kristin P. Gapit <br>
 Francen P. Manalo
 
 ## Dataset
@@ -12,7 +12,7 @@ A custom dataset was used for this project consisting of images captured under v
 **[The dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was last updated in June 19, 2026.
+> **The data listed on the table below is subject to change and was last updated in June 22, 2026.
 > Annotation started in April 23, 2026.**
 
 The current total of images in the dataset is 2000 images.
@@ -35,10 +35,10 @@ The dataset includes the following:
 |chargers     |12            |charger     |300               |
 |combs        |13            |comb        |300               |
 |flashlights  |14            |flashlight  |300               |
-|glassescases |15            |glasses case|100               |
-|medicines    |16            |medicine    |100               |
-|nailclippers |17            |nail clipper|100               |
-|shoes        |18            |shoe        |100               |
+|glassescases |15            |glasses case|300               |
+|medicines    |16            |medicine    |300               |
+|nailclippers |17            |nail clipper|300               |
+|shoes        |18            |shoe        |300               |
 |watches      |19            |watch       |300               |
 
 <br>
