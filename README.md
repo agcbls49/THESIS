@@ -9,7 +9,7 @@ Francen P. Manalo
 ## Dataset
 A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **70% train, 20% validation and 10% test** and **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this are conducted trhough the data splitting, epoch changes, and model results comparison.
 
-**[The 70/20/10 dataset source can be found here](https://drive.google.com/drive/folders/1jwQUXeVuitPZA2yQ5qw2U9-SQvqCeRwC?usp=sharing)**
+**[The 70/20/10 dataset source can be found here](https://mega.nz/file/vg4DmaIL#iMCSAZiN6EzGJX2sHrK9ng-en1osF00D78loZ5znWGk)**
 <br>
 **[The 80/10/10 dataset source can be found here](https://mega.nz/file/Ez9W2aIS#i0rejfDibpwN-IZpoOu-5QVxPYetY6m7VNxB-RMZD18)**
 
