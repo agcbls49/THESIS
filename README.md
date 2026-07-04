@@ -1,23 +1,15 @@
 # VocaSee
 VocaSee is a Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
 
-## Created By
-Amazing Grace O. Cabiles <br>
-Cyrelle Kristin P. Gapit <br>
-Francen P. Manalo
-
-## Dataset
-A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **70% train, 20% validation and 10% test** and **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this are conducted trhough the data splitting, epoch changes, and model results comparison.
-
-**[The 70/20/10 dataset source can be found here](https://mega.nz/file/vg4DmaIL#iMCSAZiN6EzGJX2sHrK9ng-en1osF00D78loZ5znWGk)**
 <br>
-**[The 80/10/10 dataset source can be found here](https://mega.nz/file/Ez9W2aIS#i0rejfDibpwN-IZpoOu-5QVxPYetY6m7VNxB-RMZD18)**
+
+A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **70% train, 20% validation and 10% test** and **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this project is conducted through the data splitting, epoch changes, and model results comparison.
 
 > [!NOTE]
 > **The data listed on the table below is subject to change and was last updated in June 22, 2026.
 > Annotation started in April 23, 2026.**
 
-The current total of images in the dataset is 6600 images. The 600 added are unlabeled/null images.
+The current total of images in the dataset is 6600 images. The 600 added are unlabeled images.
 
 The dataset includes the following:
 | Folder Name | Class Number | Class Name | Number of Images |
@@ -43,9 +35,34 @@ The dataset includes the following:
 |shoes        |18            |shoe        |300               |
 |watches      |19            |watch       |300               |
 
+## Data Split Image Distributions
+**70% Train, 20% Valid, 10% Test Data Split**
+
+| Folder              | Number of Images    |
+|---------------------|---------------------|
+|Train                |4620                 |
+|Validation           |1320                 |
+|Test                 |660                  |
+
 <br>
 
-## Supplementary Data Sources
+**80% Train, 10% Valid, 10% Test Data Split**
+| Folder              | Number of Images    |
+|---------------------|---------------------|
+|Train                |5280                 |
+|Validation           |660                  |
+|Test                 |660                  |
+
+<br>
+
+## Data Sources
+
+### Custom Dataset  
+**[The 70/20/10 dataset source can be found here](https://mega.nz/file/vg4DmaIL#iMCSAZiN6EzGJX2sHrK9ng-en1osF00D78loZ5znWGk)**
+<br>
+**[The 80/10/10 dataset source can be found here](https://mega.nz/file/Ez9W2aIS#i0rejfDibpwN-IZpoOu-5QVxPYetY6m7VNxB-RMZD18)**
+
+### Supplementary Data Sources
 1. [Flashlights from OORT DataHub](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)
 2. [Watches from Ahed Jneed](https://www.kaggle.com/datasets/ahedjneed/fancy-watche-images)
 3. [Cups from Samuel Ayman](https://www.kaggle.com/datasets/samuelayman/cup-dataset)
@@ -81,12 +98,17 @@ The dataset includes the following:
 ## Experiments
 1. The **Experiment 1** file contains code for training the **70% train, 20% validation and 10% test dataset split** tested at **100 epochs**.
 2. The **Experiment 2** file contains code for training the **80% train, 20% validation and 10% test dataset split** tested at **100 epochs**.
-3. The **Experiment 3 & 4** file contains code for training the **best dataset split evaluated from Experiment 1 and Experiment 2** tested at **150 epochs** and **200 epochs**.
+3. The **Experiment 3** file contains code for training the **best dataset split evaluated from Experiment 1 and Experiment 2** tested at **150 epochs** and **200 epochs**.
 
 > [!NOTE]
 > **The Jupyter Notebook or ipynb file contains the code for the model training as well as the interpretation of results and model export.
 > It was originally hosted in Google Colab before downloaded in a local machine. The file can be imported back into Google Colab for
 > model training using Google Colab's GPUs.**
+
+## Created By
+Amazing Grace O. Cabiles <br>
+Cyrelle Kristin P. Gapit <br>
+Francen P. Manalo
 
 ## Tech Stack
 1. LabelImg v1.8.1 for Image Annotations
