@@ -1,96 +1,68 @@
 # VocaSee
-VocaSee is a Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users
+VocaSee is a Voice-Guided Indoor Object Finder Android Application for Visually Impaired Users. This repository contains the Google Colab files used for training the YOLO Nano models used in our Thesis.
 
 <br>
 
-A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **70% train, 20% validation and 10% test** and **80% train, 10% validation and 10% test** sets. All YOLO models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this project is conducted through the data splitting, epoch changes, and model results comparison.
+A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **70% train, 20% validation and 10% test** and **80% train, 10% validation and 10% test** sets. All YOLO Nano models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this project is conducted through the data splitting, epoch changes, and model results comparison.
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was last updated in June 22, 2026.
+> **The data listed on the table below is subject to change and was last updated in August 15, 2026.
 > Annotation started in April 23, 2026.**
 
-The current total of images in the dataset is 6600 images. The 600 added are unlabeled images.
+The current total of images in the dataset is images. The 350 added are unlabeled images.
 
 The dataset includes the following:
-| Folder Name | Class Number | Class Name | Number of Images |
-|-------------|--------------|------------|------------------|
-|backpacks    |0             |backpack    |300               |
-|books        |1             |book        |300               |
-|cups         |2             |cup         |300               |
-|eyeglasses   |3             |glasses     |300               |
-|headphones   |4             |headphone   |300               |
-|keys         |5             |key         |300               |
-|phones       |6             |phone       |300               |
-|remotes      |7             |remote      |300               |
-|wallets      |8             |wallet      |300               |
-|waterbottles |9             |water bottle|300               |
-|bodysprays   |10            |body spray  |300               |
-|cards        |11            |card        |300               |
-|chargers     |12            |charger     |300               |
-|combs        |13            |comb        |300               |
-|flashlights  |14            |flashlight  |300               |
-|glassescases |15            |glasses case|300               |
-|medicines    |16            |medicine    |300               |
-|nailclippers |17            |nail clipper|300               |
-|shoes        |18            |shoe        |300               |
-|watches      |19            |watch       |300               |
+| Class Number | Class Name | Number of Images |
+|--------------|------------|------------------|
+|0             |body scrub  |                  |
+|1             |cane        |                  |
+|2             |charger     |300               |
+|3             |comb        |300               |
+|4             |headset     |100               |
+|5             |lighter     |                  |
+|6             |medicine    |300               |
+|7             |phone       |300               |
+|8             |toys        |                  |
+|9             |towel       |                  |
+
+**headset class includes headphones as well as earphones. In the total composition of the dataset images, 50 partially occluded images were included hence why the number of images were 350 per class.**
 
 ## Data Split Image Distributions
 **70% Train, 20% Valid, 10% Test Data Split**
 
 | Folder              | Number of Images    |
 |---------------------|---------------------|
-|Train                |4620                 |
-|Validation           |1320                 |
-|Test                 |660                  |
+|Train                |                     |
+|Validation           |                     |
+|Test                 |                     |
 
 <br>
 
 **80% Train, 10% Valid, 10% Test Data Split**
 | Folder              | Number of Images    |
 |---------------------|---------------------|
-|Train                |5280                 |
-|Validation           |660                  |
-|Test                 |660                  |
+|Train                |                     |
+|Validation           |                     |
+|Test                 |                     |
 
 <br>
 
 ## Data Sources
-
-### Custom Dataset  
-**[The 70/20/10 dataset source can be found here](https://mega.nz/file/vg4DmaIL#iMCSAZiN6EzGJX2sHrK9ng-en1osF00D78loZ5znWGk)**
-<br>
-**[The 80/10/10 dataset source can be found here](https://mega.nz/file/Ez9W2aIS#i0rejfDibpwN-IZpoOu-5QVxPYetY6m7VNxB-RMZD18)**
+Our own custom data source as well as the supplementary data sources below.
 
 ### Supplementary Data Sources
-1. [Flashlights from OORT DataHub](https://www.kaggle.com/datasets/oortdatahub/diverse-tools-image-dataset-for-machine-learning)
-2. [Watches from Ahed Jneed](https://www.kaggle.com/datasets/ahedjneed/fancy-watche-images)
-3. [Cups from Samuel Ayman](https://www.kaggle.com/datasets/samuelayman/cup-dataset)
-4. Headphones from the Roboflow Universe Platform specifically made by:
+1. Headphones from the Roboflow Universe Platform specifically made by:
    * [@CVAI Project](https://universe.roboflow.com/headphones-9uy0k/headphones-fwhbt)
    * [@headphones](https://universe.roboflow.com/headphones/headphones-3i2fi)
    * [@headphones-crjvh](https://universe.roboflow.com/headphones-crjvh/headphones-zrumj)
-
-5. Books from the Roboflow Universe Platform specifically made by:
-   * [@book-ywepn](https://universe.roboflow.com/book-ywepn/book-wuuk7)
-   * [@test-qcuam](https://universe.roboflow.com/test-qcuam/books-uqkzq)
-  
-6. [Chargers from the Roboflow Universe Platform by Nikhilai](https://universe.roboflow.com/nikhilai-anmh1/shop-ai-v1)
-7. Combs from the Roboflow Universe Platform specifically made by:
+2. [Chargers from the Roboflow Universe Platform by Nikhilai](https://universe.roboflow.com/nikhilai-anmh1/shop-ai-v1)
+3. Combs from the Roboflow Universe Platform specifically made by:
    * [@Newwy22](https://universe.roboflow.com/newwy22/comb-uqoir)
    * [@Thiyada](https://universe.roboflow.com/thiyada-g1bzx/comb-lipstick-marshmallow)
    * [@pp-mfp9z](https://universe.roboflow.com/pp-mfp9z/comb-glasses-pen)
    * [@HAZARD](https://universe.roboflow.com/hazard-qjwxm/sharp-objects-detection-i)
    * [@annimal](https://universe.roboflow.com/annimal/powder-comb-treatment)
    * ***[Combs and Water Bottles from @Artificial intelligence tools Assignment](https://universe.roboflow.com/artificial-intelligence-tools-assignment/bottle-phone-comb)***
-8. [Water Bottles from the Roboflow Universe Platform by waterbottles](https://universe.roboflow.com/waterbottles/water-bottles-0dgex)
-9. Remotes from the Roboflow Universe Platform specifically made by:
-    * [@Tahsin](https://universe.roboflow.com/tahsin/tv-remote)
-    * [@Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/remotes)
-10. [Body Sprays from the Roboflow Universe Platform by MARIJOY S VILLAR](https://universe.roboflow.com/marijoy-s-villar/perfume-adhjk)
-11. [Glasses Cases from the Roboflow Universe Platform by s Workspace](https://universe.roboflow.com/s-workspace-lzvrl/glasses-case-detection)
-12. [Cards from the Roboflow Universe Platform by Efe Efesefe](https://universe.roboflow.com/efe-efesefe-gvfaz/credit-cards-n4hrw)
-13. [Wallets from the Roboflow Universe Platform by Valuable Object Detection](https://universe.roboflow.com/valuable-object-detection/wallet-mjzrc)
 
 <br>
 <br>
