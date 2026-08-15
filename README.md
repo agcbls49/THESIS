@@ -9,23 +9,23 @@ A custom dataset was used for this project consisting of images captured under v
 > **The data listed on the table below is subject to change and was last updated in August 15, 2026.
 > Annotation started in April 23, 2026.**
 
-The current total of images in the dataset is images. The 350 added are unlabeled images.
+The current total of images in the dataset is images. The 300 added are unlabeled images.
 
 The dataset includes the following:
 | Class Number | Class Name | Number of Images |
 |--------------|------------|------------------|
 |0             |body scrub  |                  |
 |1             |cane        |                  |
-|2             |charger     |300               |
-|3             |comb        |300               |
+|2             |charger     |250               |
+|3             |comb        |250               |
 |4             |headset     |100               |
 |5             |lighter     |                  |
-|6             |medicine    |300               |
-|7             |phone       |300               |
+|6             |medicine    |250               |
+|7             |phone       |250               |
 |8             |toys        |                  |
 |9             |towel       |                  |
 
-**headset class includes headphones as well as earphones. In the total composition of the dataset images, 50 partially occluded images were included hence why the number of images were 350 per class.**
+**headset class includes headphones as well as earphones. In the total composition of the dataset images, 50 partially occluded images were included hence why the number of images were 300 per class.**
 
 ## Data Split Image Distributions
 **70% Train, 20% Valid, 10% Test Data Split**
