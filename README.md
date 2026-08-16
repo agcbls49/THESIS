@@ -22,8 +22,7 @@ The dataset includes the following:
 |5             |lighter     |                  |
 |6             |medicine    |250               |
 |7             |phone       |250               |
-|8             |toys        |                  |
-|9             |towel       |                  |
+|8             |towel       |                  |
 
 **headset class includes headphones as well as earphones. In the total composition of the dataset images, 50 partially occluded images were included hence why the number of images were 300 per class.**
 
