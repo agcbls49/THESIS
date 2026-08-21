@@ -6,22 +6,22 @@ VocaSee is a Voice-Guided Indoor Object Finder Android Application for Visually 
 A custom dataset was used for this project consisting of images captured under varying lighting conditions and was combined with supplementary images from Kaggle and Roboflow. The dataset was split into **70% train, 20% validation and 10% test** and **80% train, 10% validation and 10% test** sets. All YOLO Nano models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this project is conducted through the data splitting, epoch changes, and model results comparison.
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was last updated in August 15, 2026.
+> **The data listed on the table below is subject to change and was last updated in August 21, 2026.
 > Annotation started in April 23, 2026.**
 
-The current total of images in the dataset is images. The 300 added are unlabeled images.
+The current total of images in the dataset is images. The 240 added are unlabeled images.
 
 The dataset includes the following:
 | Class Number | Class Name | Number of Images |
 |--------------|------------|------------------|
 |0             |body scrub  |                  |
 |1             |cane        |                  |
-|2             |charger     |250               |
-|3             |comb        |250               |
-|4             |headset     |100               |
+|2             |charger     |300               |
+|3             |comb        |300               |
+|4             |headset     |300               |
 |5             |lighter     |                  |
-|6             |medicine    |250               |
-|7             |phone       |250               |
+|6             |medicine    |300               |
+|7             |phone       |300               |
 |8             |towel       |                  |
 
 **headset class includes headphones as well as earphones. In the total composition of the dataset images, 50 partially occluded images were included hence why the number of images were 300 per class.**
