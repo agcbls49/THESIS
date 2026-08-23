@@ -13,7 +13,7 @@ The dataset was split into **70% train, 20% validation and 10% test** and **80% 
 All YOLO Nano models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this project is conducted through the data splitting, epoch changes, and model results comparison.
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was last updated in August 22, 2026.
+> **The data listed on the table below is subject to change and was last updated in August 23, 2026.
 > Annotation started in April 23, 2026.**
 
 The current total of images in the dataset is images. The 270 added are unlabeled images.
@@ -26,10 +26,10 @@ The dataset includes the following:
 |2             |charger     |300               |
 |3             |comb        |300               |
 |4             |headset     |300               |
-|5             |lighter     |                  |
+|5             |lighter     |300               |
 |6             |medicine    |300               |
 |7             |phone       |300               |
-|8             |towel       |                  |
+|8             |towel       |300               |
 
 > [!NOTE]
 > **body scrub class is not to be confused with skin care moisturizing products. body scrubs in this context means body scrubbers used to clean (usually the back) the body.
