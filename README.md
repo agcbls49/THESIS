@@ -13,16 +13,16 @@ The dataset was split into **70% train, 20% validation and 10% test** and **80% 
 All YOLO Nano models were trained using this dataset with the following default YOLO configurations: images were resized to 640×640, a batch size of 16 was used, and training was conducted for 100 epochs. The experimentation of this project is conducted through the data splitting, epoch changes, and model results comparison.
 
 > [!NOTE]
-> **The data listed on the table below is subject to change and was last updated in August 23, 2026.
+> **The data listed on the table below is subject to change and was last updated in August 24, 2026.
 > Annotation started in April 23, 2026.**
 
-The current total of images in the dataset is images. The 270 added are unlabeled images.
+The current total of images in the dataset is images 2970. The 270 added are unlabeled images.
 
 The dataset includes the following:
 | Class Number | Class Name | Number of Images |
 |--------------|------------|------------------|
-|0             |body scrub  |                  |
-|1             |cane        |                  |
+|0             |body scrub  |300               |
+|1             |cane        |300               |
 |2             |charger     |300               |
 |3             |comb        |300               |
 |4             |headset     |300               |
@@ -41,18 +41,18 @@ The dataset includes the following:
 
 | Folder              | Number of Images    |
 |---------------------|---------------------|
-|Train                |                     |
-|Validation           |                     |
-|Test                 |                     |
+|Train                |2079                 |
+|Validation           |594                  |
+|Test                 |297                  |
 
 <br>
 
 **80% Train, 10% Valid, 10% Test Data Split**
 | Folder              | Number of Images    |
 |---------------------|---------------------|
-|Train                |                     |
-|Validation           |                     |
-|Test                 |                     |
+|Train                |2376                 |
+|Validation           |297                  |
+|Test                 |297                  |
 
 <br>
 
