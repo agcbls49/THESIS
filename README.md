@@ -71,7 +71,7 @@ Our own custom data source as well as the supplementary data sources below.
    * [@pp-mfp9z](https://universe.roboflow.com/pp-mfp9z/comb-glasses-pen)
    * [@HAZARD](https://universe.roboflow.com/hazard-qjwxm/sharp-objects-detection-i)
    * [@annimal](https://universe.roboflow.com/annimal/powder-comb-treatment)
-   * ***[Combs and Water Bottles from @Artificial intelligence tools Assignment](https://universe.roboflow.com/artificial-intelligence-tools-assignment/bottle-phone-comb)***
+   * [Combs from @Artificial intelligence tools Assignment](https://universe.roboflow.com/artificial-intelligence-tools-assignment/bottle-phone-comb)
 4. [Lighter from the Roboflow Universe Platform by Hwang Sung Min](https://universe.roboflow.com/hwang-sung-min/lighter-nvtss)
 5. [Towel from the Roboflow Universe Platform by @zezamii](https://universe.roboflow.com/zezamii/towel-detection-1xa8w)
 6. [Cane from the Roboflow Universe Platform by @nodongjaeteam-g1pbo](https://universe.roboflow.com/nodongjaeteam-g1pbo/white-cane-hyjat)
