@@ -60,22 +60,17 @@ The dataset includes the following:
 Our own custom data source as well as the supplementary data sources below.
 
 ### Supplementary Data Sources
-1. Headphones from the Roboflow Universe Platform specifically made by:
-   * [@CVAI Project](https://universe.roboflow.com/headphones-9uy0k/headphones-fwhbt)
-   * [@headphones](https://universe.roboflow.com/headphones/headphones-3i2fi)
-   * [@headphones-crjvh](https://universe.roboflow.com/headphones-crjvh/headphones-zrumj)
-2. [Chargers from the Roboflow Universe Platform by Nikhilai](https://universe.roboflow.com/nikhilai-anmh1/shop-ai-v1)
-3. Combs from the Roboflow Universe Platform specifically made by:
-   * [@Newwy22](https://universe.roboflow.com/newwy22/comb-uqoir)
+1. [Chargers from the Roboflow Universe Platform by Nikhilai](https://universe.roboflow.com/nikhilai-anmh1/shop-ai-v1)
+2. Combs from the Roboflow Universe Platform specifically made by:
    * [@Thiyada](https://universe.roboflow.com/thiyada-g1bzx/comb-lipstick-marshmallow)
    * [@pp-mfp9z](https://universe.roboflow.com/pp-mfp9z/comb-glasses-pen)
    * [@HAZARD](https://universe.roboflow.com/hazard-qjwxm/sharp-objects-detection-i)
    * [@annimal](https://universe.roboflow.com/annimal/powder-comb-treatment)
    * [Combs from @Artificial intelligence tools Assignment](https://universe.roboflow.com/artificial-intelligence-tools-assignment/bottle-phone-comb)
-4. [Lighter from the Roboflow Universe Platform by Hwang Sung Min](https://universe.roboflow.com/hwang-sung-min/lighter-nvtss)
-5. [Towel from the Roboflow Universe Platform by @zezamii](https://universe.roboflow.com/zezamii/towel-detection-1xa8w)
-6. [Cane from the Roboflow Universe Platform by @nodongjaeteam-g1pbo](https://universe.roboflow.com/nodongjaeteam-g1pbo/white-cane-hyjat)
-7. [Body Scrub from the Roboflow Universe Platform by @red-spong](https://universe.roboflow.com/red-spong/sponge-kl0nz)
+3. [Lighter from the Roboflow Universe Platform by Hwang Sung Min](https://universe.roboflow.com/hwang-sung-min/lighter-nvtss)
+4. [Towel from the Roboflow Universe Platform by @zezamii](https://universe.roboflow.com/zezamii/towel-detection-1xa8w)
+5. [Cane from the Roboflow Universe Platform by @nodongjaeteam-g1pbo](https://universe.roboflow.com/nodongjaeteam-g1pbo/white-cane-hyjat)
+6. [Body Scrub from the Roboflow Universe Platform by @red-spong](https://universe.roboflow.com/red-spong/sponge-kl0nz)
 
 <br>
 <br>
@@ -91,7 +86,7 @@ Our own custom data source as well as the supplementary data sources below.
 > model training using Google Colab's GPUs.**
 
 ## Created By
-Amazing Grace O. Cabiles - Machine Learning Developer <br>
+Amazing Grace O. Cabiles - Computer Vision Developer <br>
 Cyrelle Kristin P. Gapit - Android Developer <br>
 Francen P. Manalo - Documenter
 
