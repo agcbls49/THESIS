@@ -8,8 +8,8 @@ TRAIN_RATIO = 0.8
 VAL_RATIO = 0.1
 TEST_RATIO = 0.1
 
-SOURCE_DIR = r"D:\THESIS_ARGH\source"
-OUTPUT_DIR = r"D:\THESIS_ARGH\dataset"
+SOURCE_DIR = r"D:\A_5TH_DATASET\source"
+OUTPUT_DIR = r"D:\A_5TH_DATASET\dataset2"
 
 SPLITS = ["train", "val", "test"]
 IGNORED_TXT = {"classes.txt", "notes.txt"}
@@ -48,7 +48,8 @@ def split_pairs(pairs):
 
     # Calculate the cutoff indices for train and val, the remainder goes to test
     total = len(shuffled)
-    train_end = int(total * TRAIN_RATIO)
+
+    train_end = round(total * TRAIN_RATIO)
     val_end = train_end + int(total * VAL_RATIO)
 
     return {
