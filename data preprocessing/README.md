@@ -53,10 +53,10 @@ This file was used to mass rename all null images and create their corresponding
 
 ## *split_dataset.py*
 
-This file was used to split the dataset into **80% train, 10% valid and 10% test**. It creates train, valid and test folders inside the output folders or directory. It then shuffles the images inside the source directory then copies it into the train, valid, and test folders inside the output directory. Lastly, it prints a summary of the split.
+This file was used to split the dataset into **70% train, 20% valid and 10% test** and **80% train, 10% valid and 10% test**. It creates train, valid and test folders inside the output folders or directory. It then shuffles the images inside the source directory then copies it into the train, valid, and test folders inside the output directory. Lastly, it prints a summary of the split.
 
 ---
 
 ## *verify_distribution.py*
 
-This file checks if all the train, valid, and test folders have all the 20 classes inside after the split.
+This file checks if all the train, valid, and test folders have all the classes inside after the split.
